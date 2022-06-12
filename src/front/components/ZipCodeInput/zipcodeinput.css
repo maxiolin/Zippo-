@@ -1,0 +1,11 @@
+.zipcodeinput {
+  font-size: 2vh;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 180px ;
+  height: 40px;
+  margin-top: 25px;
+  border-radius: 5px;
+  border-color: rgb(121, 107, 246);
+  margin-left: 20px;
+  display: inline-block;
+}

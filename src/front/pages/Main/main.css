@@ -1,0 +1,10 @@
+.backdrop {
+  width: 75%;
+  height: 85%;
+  background-color: #8778FA;
+  position: center;
+  margin: auto;
+  margin-top: 5%;
+  border-radius: 2.5%;
+  min-width: 725px ;
+}

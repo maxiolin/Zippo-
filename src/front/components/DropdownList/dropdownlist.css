@@ -1,0 +1,8 @@
+.dropdown {
+  color: rgb(121, 107, 246);
+  font-size: 2vh;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 180px ;
+  padding-top: 25px;
+  display: inline-block;
+};
